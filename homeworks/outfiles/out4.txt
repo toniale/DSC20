@@ -1,0 +1,3 @@
+-ABC-
+AABBCC--
+BBBB
